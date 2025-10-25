@@ -13,6 +13,8 @@ Persistent history the app makes a little txt file with the history of what you 
 History viewer A separate window shows previously unzipped files (up to the last 500 entries)
 Error logging Any failed extraction is recorded in the log and saved in history
 Error handling Prevents the app from crashing if a zip is corrupt or unreadable
+<img width="655" height="578" alt="image" src="https://github.com/user-attachments/assets/e6e62bae-8c79-4bca-9fa7-1d08a80e2411" />
+
 ________________________________________________________________________________
 These are what i plan on adding to this app 
 make it a proper windows app (so your not forced to use python but i plan to keep a python version for linux and MacOS)
